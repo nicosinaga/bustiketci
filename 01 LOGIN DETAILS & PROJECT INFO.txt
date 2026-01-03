@@ -5,9 +5,9 @@
 
 ** Login Details** 
 
-Username: owner
-Password: codeastro.com
+Username: 
+Password: 
 
-Username: admin
-Password: codeastro.com
+Username: 
+Password: 
 
